@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @potalatarun
-- 👀 I’m interested in Game Development, App Development.
-- 🌱 I’m currently learning Game Development.
-- 💞️ I’m looking to collaborate on Game Development.
+- 👀 I’m interested in Web Development, App Development.
+- 🌱 I’m currently learning Full stack development.
+- 💞️ I’m looking to collaborate on Frontend Development.
 - 📫 How to reach me tharunpothala@gmail.com
 
 <!---
