@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @potalatarun
 - 👀 I’m interested in Web Development, App Development.
 - 🌱 I’m currently learning Full stack development.
-- 💞️ I’m looking to collaborate on Frontend Development.
+- 💞️ I’m looking to collaborate on Full Stack Development.
 - 📫 How to reach me tharunpothala@gmail.com
 
 <!---
