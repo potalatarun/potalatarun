@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @potalatarun
-- 👀 I’m interested in Web Development, App Development.
-- 🌱 I’m currently learning Full stack development.
-- 💞️ I’m looking to collaborate on Full Stack Development.
+- 👀 I’m interested in MachineLearning.
+- 🌱 I’m currently practicing MachineLearning.
+- 💞️ I’m looking to collaborate on ML, DL, Full Stack Development.
 - 📫 How to reach me tharunpothala@gmail.com
 
 <!---
